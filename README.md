@@ -1,9 +1,9 @@
-# Jumpstart Guides
+# Fullstack Track
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Jumpstart Guides uses [docsify](https://docsify.js.org/#/) to generate our guides.
+Fullstack Track guides uses [docsify](https://docsify.js.org/#/) to generate our guides.
 
 The root folder of all our guides can be found in the `docs` folder.
 
@@ -18,7 +18,7 @@ There are several themes to choose from. We are currently using [docsify-themeab
 Clone the repository
 
 ```
-git clone https://github.com/thoughtworks-jumpstart/docs.git
+git clone https://github.com/developer-program/guides.git
 ```
 
 Install dependencies
@@ -27,7 +27,7 @@ Install dependencies
 npm install
 ```
 
-Start the server and visit http://localhost:3000/#/
+Start the server and visit http://localhost:4000/
 
 ```
 npm start
