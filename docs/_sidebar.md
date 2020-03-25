@@ -1,6 +1,6 @@
 - **Introduction**
 
-  - [About](introduction/about)
+  - [About](introduction/about_dev-training)
   - [FAQ](introduction/faq)
   - [Prerequisite](introduction/prerequisite)
   - [Applying to Jumpstart](introduction/application)
