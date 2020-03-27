@@ -7,29 +7,26 @@ The following is a rough outline of the topics covered in the program. This is s
 - Welcome
 - Ice breaker session
 - Adminstration
-- Setup your machine
-- How the web works
-- HTML
-- CSS
-- Basic Javascript
+- Fundamental knowledge of a developer
+- HTML & CSS
+- Javascript
 
 ## Week 2 - JavaScript
 
 - More on Javascript
 - Introduction to React
-- Using Create React App
 - Learning the Basics of React
-- introduction to TDD
+- Introduction to TDD
 - Pair programming
 
 ## Week 3 - Building frontend applications in React and React Router
 
-- Navigating pages with React Router
-- Unit testing React applications
+- Navigating pages
+- Unit testing React Applications
 - Deploying your apps
+- Deploying UI
 - Build a frontend application in React
 - Project showcase
-- Deploy to Netlify
 - Individual feedback session with mentors
 
 ## Week 4 - Building RESTful APIs
@@ -43,10 +40,10 @@ The following is a rough outline of the topics covered in the program. This is s
 
 ## Week 5 - Securing APIs with JWT
 
-- Intro to encryption
+- Intro to Encryption
 - JWT
 - BCRYPT
-- Planning for project
+- Planning a project
 - Deploy to heroku
 
 ## Week 6 - Backend project
