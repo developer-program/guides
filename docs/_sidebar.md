@@ -1,6 +1,7 @@
 - **Introduction**
 
   - [About](introduction/about_dev-training)
+  - [Safety Measures](introduction/safety-measures)
     <!-- - [FAQ](introduction/faq) -->
     <!-- - [Prerequisite](introduction/prerequisite) -->
     <!-- - [Applying to Jumpstart](introduction/application) -->
