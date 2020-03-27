@@ -1,10 +1,10 @@
 - **Introduction**
 
   - [About](introduction/about_dev-training)
-  - [FAQ](introduction/faq)
-  - [Prerequisite](introduction/prerequisite)
-  - [Applying to Jumpstart](introduction/application)
-  - [Outline](introduction/outline)
+    <!-- - [FAQ](introduction/faq) -->
+    <!-- - [Prerequisite](introduction/prerequisite) -->
+    <!-- - [Applying to Jumpstart](introduction/application) -->
+  - [Outline](introduction/outline_dev_training)
   - [License](introduction/license)
 
 - **Fundamentals**
@@ -91,42 +91,8 @@
   - [Express.js Mongoose frontend lab](backend-web-development/express-mongoose-with-frontend-lab)
   - [Labs for backend](backend-web-development/backend-labs)
 
-- **Delivering software**
-
-  - [Agile software delivery](delivering-software/agile)
-  - [CI/CD](delivering-software/ci-cd)
-  - [Circle CI](delivering-software/circle-ci)
-  - [Git collab](delivering-software/git-collab)
-  - [Git advanced](delivering-software/git-advanced)
-  - [Clean code](delivering-software/clean-code)
-  - [Refactoring](delivering-software/refactoring)
-
-* **Computer Science**
-
-  - [Data structures and algorithms](computer-science/data-structures-algorithms)
-
-* **Software Designs**
-
-  - [programming paradigm](software-designs/programming-paradigm)
-  - [Object-oriented programming](software-designs/object-oriented-programming)
-  - [Design Principles](software-designs/design-principles)
-  - [Design Patterns](software-designs/design-patterns)
-
-* **Life after Jumpstart**
-
-  - [Career advice](life-after-jumpstart/career-advice)
-  - [Preparing for technical interviews](life-after-jumpstart/interviews)
-  - [Becoming a better programmer](life-after-jumpstart/becoming-a-better-programmer)
-
 * **Miscellaneous**
 
   - [Katas](miscellaneous/katas)
   - [Books](miscellaneous/books)
   - [Resources](miscellaneous/resources)
-
-* **Links**
-
-  - [![Website](https://icongr.am/material/web.svg?color=808080&size=16)Jumpstart](https://www.thoughtworks.com/jumpstart)
-  - [![Guides](https://icongr.am/material/book-open-variant.svg?color=808080&size=16)Guides](https://thoughtworks-jumpstart.github.io/guides)
-  - [![GitHub](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)GitHub](https://github.com/thoughtworks-jumpstart)
-  - [![npm](https://icongram.jgog.in/simple/npm.svg?color=808080&size=16)npm](https://www.npmjs.com/org/thoughtworks-jumpstart)

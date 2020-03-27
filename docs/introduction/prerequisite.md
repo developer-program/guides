@@ -1,18 +1,18 @@
 # Prerequisite
 
-## Are you ready for Jumpstart?
+## Are you ready for Developer Program?
 
 Just as there is a distinction between someone who is learning to play a musical instrument as a hobby and someone who is training to become a professional musician, there is a difference between a hobbyist coder and a professional software developer.
 
-Before applying, you have to ask yourself if you're ready to take on the challenges at Jumpstart.
+Before applying, you have to ask yourself if you're ready to take on the challenges at Developer Program.
 
-Due to the fast pace of the program, Jumpstart is not suitable for absolute beginners. We expect you to already be familiar with basic levels of HTML, CSS, and JavaScript.
+Due to the fast pace of the program, Developer Program is not suitable for absolute beginners. We expect you to already be familiar with basic levels of HTML, CSS, and JavaScript.
 
-Jumpstart is designed for advanced beginners who have some experience in web development. You should have some experience building a simple website in HTML and CSS.
+Developer Program is designed for advanced beginners who have some experience in web development. You should have some experience building a simple website in HTML and CSS.
 
 You should also be familiar with basic programming concepts in JavaScript. Use this checklist to see if you have the necessary knowledge of [JavaScript Fundamentals](https://javascript.info/first-steps).
 
-If you are not familiar with these concepts we highly recommend that you first learn them before applying to Jumpstart.
+If you are not familiar with these concepts we highly recommend that you first learn them before applying to Developer Program.
 
 ## Personal projects
 
@@ -22,9 +22,9 @@ At a minimum, we expect you to have a GitHub account with at least one public re
 
 This demonstrates that you are familiar with the fundamentals of web development - HTML, CSS, and JavaScript.
 
-## Preparing for Jumpstart
+## Preparing for Developer Program
 
-We have curated a list of online learning resources to help you prepare yourself for the Jumpstart program. We recommend that you go through all the learning materials listed on this page to help with your preparation.
+We have curated a list of online learning resources to help you prepare yourself for the Developer Program program. We recommend that you go through all the learning materials listed on this page to help with your preparation.
 
 ### Learn touch typing
 
