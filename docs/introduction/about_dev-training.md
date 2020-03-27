@@ -6,9 +6,9 @@ ThoughtWorks is a global software consultancy with over 6000 employees in over 4
 
 ## About Full Stack BootCamp
 
-Build up trainee's knowledge on essential programming fundamentals, full stack application development.
+Build up trainee's knowledge on essential programming fundamentals, full-stack application development.
 
-Help trinees fom the good habits of programming and learning.
+Help trainee forms the good habits of programming and learning.
 
 ## Getting to AccTrain Academy
 

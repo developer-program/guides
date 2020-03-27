@@ -6,7 +6,7 @@ The following is a rough outline of the topics covered in the program. This is s
 
 - Welcome
 - Ice breaker session
-- Adminstration
+- Administration
 - Fundamental knowledge of a developer
 - HTML & CSS
 - Javascript
@@ -42,9 +42,9 @@ The following is a rough outline of the topics covered in the program. This is s
 
 - Intro to Encryption
 - JWT
-- BCRYPT
+- Bcrypt
 - Planning a project
-- Deploy to heroku
+- Deploy to Heroku
 
 ## Week 6 - Backend project
 
