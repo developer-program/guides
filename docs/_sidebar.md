@@ -5,6 +5,7 @@
     <!-- - [FAQ](introduction/faq) -->
     <!-- - [Prerequisite](introduction/prerequisite) -->
     <!-- - [Applying to Jumpstart](introduction/application) -->
+  - [Internal Norms](introduction/internal-norms)
   - [Outline](introduction/outline_dev_training)
   - [License](introduction/license)
 

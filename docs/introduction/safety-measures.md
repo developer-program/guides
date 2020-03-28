@@ -3,7 +3,7 @@
 ## Health Declaration
 
 - Trainees are to declare daily if they have come into contact with someone diagnosed with Covid-19, or if they have been issued Quarantine Order(QO), Stay Home Notice(SHN) or Leave of Absence(LOA).
-- If a Trainee receives a QO, SHN and LOA. Trainees are to inform the trainers and should not attend be attending the training class.
+- If a Trainee receives a QO, SHN and LOA. Trainees are to inform the trainers and should not attend the training class.
 
 ## Taking temperature twice a day
 
@@ -14,6 +14,20 @@
 - Trainees are to sign their attendance and record their temperature daily.
 - When a trainee feels unwell, he/she **should not** attend the class, and to consult the doctor (call the clinic before going down).
 - The trainer will check on trainees daily on their well-being before starting the class.
+- Trainees with fever like symptoms **should not** attend the training class.
+
+### Symptoms of Fever
+
+- a fever temperature is above 37.5˚C
+- hot and flushed face
+- headache
+- body aches
+- feeling light-headed
+- sweating and thirst
+- head, neck and body may feel hot while hands and feet are cold
+- shivering
+
+Read more: [healthhub.sg](https://www.healthhub.sg/a-z/diseases-and-conditions/506/fever_pdf#2)
 
 ## Hand Sanitizers
 
