@@ -21,6 +21,10 @@
   - [HTTP](fundamentals/http)
   - [Technical terms](fundamentals/technical-terms)
 
+- **Building Static Web Pages**
+
+  - [HTML Basics](html&css/html)
+
 - **JavaScript**
 
   - [JavaScript basics](javascript/javascript-basics)
