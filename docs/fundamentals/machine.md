@@ -88,13 +88,19 @@ If you're on Windows 10, you can use [Windows Subsystem for Linux (WSL)](https:/
 3. restart vscode
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 4. Open settings.json (ctrl + shift + p, type `settings.json`)
 5. Add configuration for terminal integrated shell windows
+=======
+4. Open settings.json (ctrl + p, type `settings.json`)
+5. Add this line
+>>>>>>> [elson] update docs on setting ubuntu bash as default windows shell on in machine setup guide
 
 ```json
 {
-   "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe"`
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe"
 }
+<<<<<<< HEAD
 
 =======
 4. Open settings.json (ctrl + p, type `settings.json`)
@@ -113,6 +119,8 @@ If you're on Windows 10, you can use [Windows Subsystem for Linux (WSL)](https:/
 =======
 
 >>>>>>> improve clarity on terminal.integrated.shell.windows in settings.json
+=======
+>>>>>>> [elson] update docs on setting ubuntu bash as default windows shell on in machine setup guide
 ```
 
 ## Mac
