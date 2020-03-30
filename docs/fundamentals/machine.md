@@ -86,6 +86,7 @@ If you're on Windows 10, you can use [Windows Subsystem for Linux (WSL)](https:/
 2. Install wsl extension `remote wsl extension`
    `https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl`
 3. restart vscode
+<<<<<<< HEAD
 4. Open settings.json (ctrl + shift + p, type `settings.json`)
 5. Add configuration for terminal integrated shell windows
 
@@ -94,6 +95,15 @@ If you're on Windows 10, you can use [Windows Subsystem for Linux (WSL)](https:/
    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe"`
 }
 
+=======
+4. Open settings.json (ctrl + p, type `settings.json`)
+5. Add this line
+
+```json
+{
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe"
+}
+>>>>>>> [elson] update docs on setting ubuntu bash as default windows shell on in machine setup guide
 ```
 
 ## Mac
