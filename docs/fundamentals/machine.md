@@ -86,7 +86,7 @@ If you're on Windows 10, you can use [Windows Subsystem for Linux (WSL)](https:/
 2. Install wsl extension `remote wsl extension`
    `https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl`
 3. restart vscode
-4. Open settings.json (ctrl + p, type `settings.json`)
+4. Open settings.json (ctrl + shift + p, type `settings.json`)
 5. Add this line
 
 ```json
